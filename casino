@@ -1,0 +1,2 @@
+jarsigner -verbose -sigalg SHA256withRSA -digestalg SHA-256 \
+-keystore casino-release.keystore ME99_release.apk casino
